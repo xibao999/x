@@ -1,0 +1,7 @@
+{"key":"csp_xBPQ-宝仙HD","name":"宝仙HD️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://tvbox/xBPQ/宝仙HD.json"},
+
+外挂xBPQ的JAR配置样板
+{"key":"csp_xBPQ-宝仙HD","name":"宝仙HD️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://tvbox/xBPQ/宝仙HD.json","jar":"clan://tvbox/jar/xBPQ.jar"},
+
+
+基于QXB基础上修改的xBPQ哪位大佬们看看还能不能继续完善，可能是因为混淆的原因，加载速度慢。
