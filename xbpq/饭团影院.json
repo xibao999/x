@@ -1,0 +1,13 @@
+{"key":"csp_xBPQ_fantuan","name":"饭团影院(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "{\"免嗅\":\"1\",
+\"图片代理\":\"1\",
+\"线路数组\": \"class=\\\"tab-top&&</div>\",
+\"线路标题\": \"<h3>&&</h3>\",
+\"播放数组\":\"class=\\\"stui-play__list&&/ul>\",
+\"分类\":\"电影$20#电视剧$21#综艺$22#动漫$23#纪录片$24#动画片$25\",
+\"分类url\":\"https://www.fantuanhd.com/type/id-{cateId}-{catePg}.html\",
+\"搜索模式\":\"0\",
+\"搜索url\":\"https://www.fantuanhd.com/search.html?wd={wd}&submit=\",
+\"搜索链接前缀\":\"https://www.fantuanhd.com\",
+\"搜索链接后缀\":\"\"}","jar":"http://aruisi.fun:5155/d/tv/xBPQ_0926.jar"},
+
+
