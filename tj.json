@@ -50,7 +50,11 @@
     {"key":"csp_Mjxq","name":"美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
     {"key":"csp_Xifanys","name":"稀饭","type":3,"api":"csp_Xifanys","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xf.jar"},
 	{"key": "csp_ny","name": "念影","type": 3,"api": "csp_Nianying","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
-    
+    {"key":"csp_Wmkk","name":"完美看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/QJ1107.txt"},
+    {"key":"MiniYs_spider","name":"迷你影视","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/QJ1107.txt"},
+    {"key":"dm77_spider","name":"齐齐动漫","api":"csp_DM77","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/QJ1107.txt"},
+    {"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/QJ1107.txt"},
+
     {
           "key": "SPQQ",
           "name": "QQ",
