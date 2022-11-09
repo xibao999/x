@@ -35,9 +35,9 @@
    {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
  
     {"key":"csp_fant","name":"饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
-    {"key":"csp_Tkys","name": "天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
-    {"key":"csp_Ysgc","name":"工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
-    {"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
+	{"key":"csp_Tkys","name": "天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
+	{"key":"csp_Ysgc","name":"工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
+	{"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
     {"key":"csp_Dy1010","name":"双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
     {"key":"csp_Bd","name":"bidi","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
     {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json","jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
@@ -49,14 +49,8 @@
     {"key":"csp_EEEDY","name":"3E飘花","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
     {"key":"csp_Mjxq","name":"美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
     {"key":"csp_Xifanys","name":"稀饭","type":3,"api":"csp_Xifanys","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xf.jar"},
-    {"key": "csp_ny","name": "念影","type": 3,"api": "csp_Nianying","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
+	{"key": "csp_ny","name": "念影","type": 3,"api": "csp_Nianying","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/xo1104.jar"},
     
-
-    {"key":"csp_Wmkk","name":"完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/QJ1107.txt"},
-    {"key":"MiniYs_spider","name":"迷你影视","api":"csp_MiniYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/QJ1107.txt"},
-    {"key":"dm77_spider","name":"齐齐动漫","api":"csp_DM77","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/QJ1107.txt"},
-    {"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://www.gitclone.com/gogs/xibao/B/raw/master/jar/QJ1107.txt"},
-
     {
           "key": "SPQQ",
           "name": "QQ",
@@ -661,4 +655,3 @@
   ],
   "spider": "https://www.gitclone.com/gogs/xibao/B/raw/master/jar/cs.jar"
 }
-Footer
